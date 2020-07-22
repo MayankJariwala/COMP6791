@@ -1,0 +1,5 @@
+blocks/
+.idea/
+target/
+invertedIndex/
+docs/

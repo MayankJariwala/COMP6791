@@ -1,0 +1,9 @@
+blocks/
+.idea/
+target/
+invertedIndex/
+docs/
+*.iml
+new/
+www.concordia.ca/
+aitopics.org/

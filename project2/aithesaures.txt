@@ -1,0 +1,51 @@
+machine learning
+pattern recognition
+data mining
+big data
+image processing
+algorithm design
+computer vision
+data science
+software engineering
+3D digital imaging
+computer graphics
+soft computing
+aerospace
+computational linguistics
+digital games
+human-computer interaction
+natural language processing
+signal processing
+statistical inference
+bioinformatics
+distributed/parallel systems
+information retrieval
+predictive analytics
+shape representation and detection
+3D data acquisition
+biomedical engineering
+business analytics
+cloud computing
+control systems
+cybersecurity
+document classification
+game studies and design
+ICT
+meaning
+representation of concepts
+smart cities
+smart infrastructures
+3D data acquisition technologies
+3D reconstruction
+adaptive control
+advanced manufacturing
+animation
+artificial neural networks
+augmented reality
+cities
+deep learning
+design science
+empirical software engineering
+environmental impact assessment
+genomics
+handwriting
